@@ -2,6 +2,13 @@
 
 > 🔬 **Research Inspiration:** The idea behind AgriPrice-IQ was inspired by research presented at the **Royal Statistical Society (RSS) International Conference 2026**, Bournemouth, UK.
 
+## 📊 Interactive Dashboard
+
+**[View the Interactive Tableau Dashboard →](https://public.tableau.com/app/profile/firila.najma.wahidah2703/viz/shared/B3GJXT7NT)**
+
+
+Explore historical Canadian retail prices, 12-month P10/P50/P90 forecasts, forecast uncertainty intervals, provincial and product-level analysis, and price volatility.
+
 **AgriPrice-IQ** is an independent end-to-end data science project focused on forecasting Canadian retail food prices while **quantifying and communicating the uncertainty surrounding future price predictions** across 10 Canadian provinces.
 
 The project combines **data engineering, exploratory data analysis, feature engineering, machine learning, probabilistic forecasting, uncertainty quantification, price volatility analysis, and interactive business intelligence** into a complete data science workflow.
